@@ -4,8 +4,8 @@
          Program ini untuk menghitung jumlah hari dalam satu bulan.
               Kali ini memanfaatkan list untuk mencari match.
                 Terbikin oleh @lantip karena because.
-            compile it with: $g++ daysinmonthvector.cpp -o daysinmonthvector
-                       run it with: $./daysinmonthvector
+            compile it with: $g++ daysinmontharray.cpp -o daysinmontharray
+                       run it with: $./daysinmontharray
 
 *******************************************************************************/
 
